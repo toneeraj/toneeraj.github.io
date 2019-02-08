@@ -1,6 +1,6 @@
-##Spring Batch
+## Spring Batch
 
-###custom process
+### Custom process
 ```java
 
 public class BirthdayFilterProcessor implements ItemProcessor<Customer, Customer> {
